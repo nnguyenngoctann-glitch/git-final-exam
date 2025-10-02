@@ -12,3 +12,9 @@ Kỹ Năng :
 Python
 Git
 C++
+ Kế hoạch học tập : 
+Hoành thành môn lập trình Python trong kì tới
+Luyện tập kỹ năng SQL 
+Tập trung học Python 
+luyện tập Git
+học thêm tiếng anh 
