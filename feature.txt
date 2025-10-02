@@ -1,0 +1,6 @@
+ Tính năng quản lý nhân viên :
+Thêm nhân viên mới 
+Chỉnh sửa thông tin nhân viên 
+Xóa nhân viên 
+Quản lý danh sách nhân viên 
+Quản lý hoạt động tài khoản 
