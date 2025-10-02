@@ -1,0 +1,14 @@
+ Giới Thiệu : 
+Tôi tên là Nguyễn Ngọc Tân , năm nay tôi 21 tuổi,
+Hiện tại là sinh viên năm 4 ngành Công Nghệ Thông Tin ,
+Trường Đại học Nam Cần Thơ ,
+Quê tôi ở Sóc Trăng ,
+Tôi đang học Github 
+Sở Thích :
+- Nghe nhạc 
+- chơi game 
+- Lập trình
+Kỹ Năng : 
+Python
+Git
+C++
